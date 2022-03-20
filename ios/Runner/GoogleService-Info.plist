@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>828816761700-auf4sf8bt12v51qdsj51rgdd8592datk.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.828816761700-auf4sf8bt12v51qdsj51rgdd8592datk</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>828816761700-kq6aqtjpbrtpippchv85f3veldbgkm05.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBnPuBlsELYNRb0MQNi3fgSdk_PhPCNHCU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>828816761700</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.taptitudeapp.brandfolio</string>
+	<key>PROJECT_ID</key>
+	<string>portfolio-913fe</string>
+	<key>STORAGE_BUCKET</key>
+	<string>portfolio-913fe.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:828816761700:ios:f0914bd75471bd0e895071</string>
+</dict>
+</plist>

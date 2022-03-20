@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "828816761700",
+    "project_id": "portfolio-913fe",
+    "storage_bucket": "portfolio-913fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828816761700:android:4bf90f335b0664d6895071",
+        "android_client_info": {
+          "package_name": "com.taptitudeapp.brandfolio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828816761700-kq6aqtjpbrtpippchv85f3veldbgkm05.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.taptitudeapp.brandfolio",
+            "certificate_hash": "90502a1dc7cfc41abb997fa5656c4f038bee8eaf"
+          }
+        },
+        {
+          "client_id": "828816761700-v67bgcgq332jugfnmv57nnbe3n00ka70.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwbRtgS-1DyihukwSX0S6K_zf1rc4UljY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "828816761700-v67bgcgq332jugfnmv57nnbe3n00ka70.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
