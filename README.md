@@ -1,4 +1,4 @@
-# potofolios
+# Port Folio Sharing App
 
 A new Flutter project.This flutter unique project si about to digitalize the physical CV problems.You have to do is to share a link or other user of the app can get all of your prvided information on scanning a QR code.So this is the life changing or revolutionizing project. 
 # Duw to lack of time i am add this project as a private reepository. IF anyne intersted in doing this project please contact me i will add to a scontributor and will make it successfull.
